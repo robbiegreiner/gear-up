@@ -23,6 +23,11 @@ Session Outline: Include the flow of the session and the time for each section.
 * Does everyone understand net neutrality? - Team facilitate this discussion as a whole
 * Anyone have questions?
 * Everyone install net neutrality chrome extension and see how it affects users? - Johanan Lead  https://chrome.google.com/webstore/detail/removal-of-net-neutrality/macmdnlopncdoehmjhfenfblflnohoen?hl=en-US
+* Show Video https://www.pbs.org/newshour/show/fcc-chair-ajit-pai-explains-wants-scrap-net-neutrality
+  * Ajit Pai argues that imposing regulations on ISPs will stifle investment in ISPs and disincentivize companies from building out internet service to rural areas of the country. 
+  * Do you think that could be a valid argument for rolling back net neutrality rules?
+
+Google, instagram, facebook and others have expressed their support for net neutrality regulations; however these companies all gained immense success and were able to thrive before the addition of the net neutrality regulations of 2015. Why do you believe or not believe that 2015 was the right time for these regulations?
 #### 35-50: Small group discussion to answer questions - Put questions on board. Number off to 4.
 * Show 3 bullet points of Net Neutrality on the board 
   - BLOCKING Internet service providers could not discriminate against any lawful content by blocking websites or apps.
